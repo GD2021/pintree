@@ -165,6 +165,34 @@
                     "title": "CloudSaver",
                     "icon": "https://logo.clearbit.com/pan.claw.tun.re",
                     "url": "https://pan.claw.tun.re/login"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1749361360859,
+                    "title": "Enclosed",
+                    "icon": "https://logo.clearbit.com/21cn.zone.id",
+                    "url": "https://21cn.zone.id/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1749361371834,
+                    "title": "Opengist",
+                    "icon": "https://logo.clearbit.com/8bit.zone.id",
+                    "url": "https://8bit.zone.id/login"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1749516803930,
+                    "title": "Sub Store",
+                    "icon": "https://logo.clearbit.com/sub.claw.tun.re",
+                    "url": "https://sub.claw.tun.re/subs"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1749519524515,
+                    "title": "Vaultwarden Web",
+                    "icon": "https://logo.clearbit.com/zonr.zone.id",
+                    "url": "https://zonr.zone.id/#/login"
                   }
                 ]
               },
@@ -291,6 +319,13 @@
                     "title": "Work with Microsoft Office integration",
                     "icon": "https://logo.clearbit.com/labclient.labondemand.com",
                     "url": "https://labclient.labondemand.com/LabClient/f466b621-d468-430d-b6cc-a2496083d3e1"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1749362218375,
+                    "title": "文件快递柜 - FileCodeBox",
+                    "icon": "https://logo.clearbit.com/box.myhub.dpdns.org",
+                    "url": "https://box.myhub.dpdns.org:10086/#/"
                   }
                 ]
               }
