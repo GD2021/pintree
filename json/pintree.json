@@ -119,45 +119,24 @@
                 "children": [
                   {
                     "type": "link",
-                    "addDate": 1749783605658,
-                    "title": "File Browser",
-                    "icon": "https://logo.clearbit.com/file.niuma.so.kg",
-                    "url": "https://file.niuma.so.kg/login?redirect=/files/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1749784929956,
-                    "title": "Linkding",
-                    "icon": "https://logo.clearbit.com/link.niuma.so.kg",
-                    "url": "https://link.niuma.so.kg/bookmarks"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1749787161651,
-                    "title": "Deep Research",
-                    "icon": "https://logo.clearbit.com/deep.niuma.so.kg",
-                    "url": "https://deep.niuma.so.kg/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1749787165131,
-                    "title": "DPanel 管理面板",
-                    "icon": "https://logo.clearbit.com/dpanel.niuma.so.kg",
-                    "url": "https://dpanel.niuma.so.kg/dpanel/ui/user/login"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1749787182075,
-                    "title": "Trilium",
-                    "icon": "https://logo.clearbit.com/note.niuma.so.kg",
-                    "url": "https://note.niuma.so.kg/login"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1749787190460,
+                    "addDate": 1748404616000,
                     "title": "Nginx Proxy Manager",
-                    "icon": "https://logo.clearbit.com/npm.niuma.so.kg",
-                    "url": "https://npm.niuma.so.kg/nginx/proxy"
+                    "icon": "https://logo.clearbit.com/npm.sdk.netlib.re",
+                    "url": "https://npm.sdk.netlib.re/login"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1748404632000,
+                    "title": "Docker 管理面板",
+                    "icon": "https://logo.clearbit.com/dpanel.sdk.netlib.re",
+                    "url": "https://dpanel.sdk.netlib.re/dpanel/ui/user/login"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1749086174804,
+                    "title": "File Browser",
+                    "icon": "https://logo.clearbit.com/file.sdk.netlib.re",
+                    "url": "https://file.sdk.netlib.re/login?redirect=/files/"
                   }
                 ]
               },
@@ -182,38 +161,10 @@
                   },
                   {
                     "type": "link",
-                    "addDate": 1749361360859,
-                    "title": "Enclosed",
-                    "icon": "https://logo.clearbit.com/21cn.zone.id",
-                    "url": "https://21cn.zone.id/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1749361371834,
-                    "title": "Opengist",
-                    "icon": "https://logo.clearbit.com/8bit.zone.id",
-                    "url": "https://8bit.zone.id/login"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1749519524515,
-                    "title": "Vaultwarden Web",
-                    "icon": "https://logo.clearbit.com/zonr.zone.id",
-                    "url": "https://zonr.zone.id/#/login"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1749556999470,
-                    "title": "Sub Store",
-                    "icon": "https://logo.clearbit.com/sub.inone.cloudns.be",
-                    "url": "https://sub.inone.cloudns.be/files"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1749563235641,
+                    "addDate": 1749085469538,
                     "title": "CloudSaver",
-                    "icon": "https://logo.clearbit.com/pso.labs.tun.re",
-                    "url": "https://pso.labs.tun.re/login"
+                    "icon": "https://logo.clearbit.com/pan.claw.tun.re",
+                    "url": "https://pan.claw.tun.re/login"
                   }
                 ]
               },
@@ -340,20 +291,6 @@
                     "title": "Work with Microsoft Office integration",
                     "icon": "https://logo.clearbit.com/labclient.labondemand.com",
                     "url": "https://labclient.labondemand.com/LabClient/f466b621-d468-430d-b6cc-a2496083d3e1"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1749362218375,
-                    "title": "文件快递柜 - FileCodeBox",
-                    "icon": "https://logo.clearbit.com/box.myhub.dpdns.org",
-                    "url": "https://box.myhub.dpdns.org:10086/#/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1749614869560,
-                    "title": " Linkding",
-                    "icon": "https://logo.clearbit.com/link.myhub.dpdns.org",
-                    "url": "https://link.myhub.dpdns.org:10086/login/"
                   }
                 ]
               }
@@ -412,34 +349,6 @@
                 "title": "Try markmap 代码转思维导图",
                 "icon": "https://logo.clearbit.com/markmap.js.org",
                 "url": "https://markmap.js.org/repl"
-              },
-              {
-                "type": "folder",
-                "addDate": 1749792616806,
-                "title": "🚌 工具箱",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1749792621550,
-                    "title": "纬来PDF转换器",
-                    "icon": "https://logo.clearbit.com/www.pdfpai.com",
-                    "url": "https://www.pdfpai.com/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1749792634370,
-                    "title": "PDF.io",
-                    "icon": "https://logo.clearbit.com/pdf.io",
-                    "url": "https://pdf.io/cn/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1749792641841,
-                    "title": "ONEPDF",
-                    "icon": "https://logo.clearbit.com/www.onepdf.online",
-                    "url": "https://www.onepdf.online/"
-                  }
-                ]
               }
             ]
           },
