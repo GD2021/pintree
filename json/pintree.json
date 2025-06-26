@@ -35,13 +35,6 @@
                   },
                   {
                     "type": "link",
-                    "addDate": 1748404501000,
-                    "title": "Memos",
-                    "icon": "https://logo.clearbit.com/www.memos.cloudns.be",
-                    "url": "https://www.memos.cloudns.be/explore"
-                  },
-                  {
-                    "type": "link",
                     "addDate": 1748404516000,
                     "title": "Miniflux",
                     "icon": "https://logo.clearbit.com/rss.links.cloudns.be",
@@ -53,13 +46,6 @@
                     "title": "linkding",
                     "icon": "https://logo.clearbit.com/www.links.cloudns.be",
                     "url": "https://www.links.cloudns.be/login/?next=/bookmarks"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1748404544000,
-                    "title": "Trilium Note",
-                    "icon": "https://logo.clearbit.com/www.notes.cloudns.be",
-                    "url": "https://www.notes.cloudns.be/login"
                   },
                   {
                     "type": "link",
@@ -98,13 +84,6 @@
                   },
                   {
                     "type": "link",
-                    "addDate": 1748522034726,
-                    "title": "LibreTV - 免费在线视频搜索与观看平台",
-                    "icon": "https://logo.clearbit.com/tv.labs.netlib.re",
-                    "url": "https://tv.labs.netlib.re/"
-                  },
-                  {
-                    "type": "link",
                     "addDate": 1749086202075,
                     "title": "📚 超人笔记",
                     "icon": "https://logo.clearbit.com/wiki.labs.netlib.re",
@@ -123,13 +102,6 @@
                     "title": "File Browser",
                     "icon": "https://logo.clearbit.com/file.niuma.so.kg",
                     "url": "https://file.niuma.so.kg/login?redirect=/files/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1749784929956,
-                    "title": "Linkding",
-                    "icon": "https://logo.clearbit.com/link.niuma.so.kg",
-                    "url": "https://link.niuma.so.kg/bookmarks"
                   },
                   {
                     "type": "link",
@@ -280,17 +252,10 @@
                   },
                   {
                     "type": "link",
-                    "addDate": 1748499257000,
-                    "title": "Nginx Proxy Manager",
-                    "icon": "https://logo.clearbit.com/npm.myhub.dpdns.org",
-                    "url": "https://npm.myhub.dpdns.org:10086/login"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1748499328000,
-                    "title": "Docker 管理面板",
-                    "icon": "https://logo.clearbit.com/dpanel.myhub.dpdns.org",
-                    "url": "https://dpanel.myhub.dpdns.org:10086/dpanel/ui/user/login"
+                    "addDate": 1750348954946,
+                    "title": "Nginx Proxy Manager面版",
+                    "icon": "https://logo.clearbit.com/npm.labs.cloudns.be",
+                    "url": "https://npm.labs.cloudns.be/login"
                   },
                   {
                     "type": "link",
@@ -298,27 +263,6 @@
                     "title": "Immich",
                     "icon": "https://logo.clearbit.com/immich.myhub.dpdns.org",
                     "url": "https://immich.myhub.dpdns.org:10086/auth/login"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1748499338000,
-                    "title": "QWRT",
-                    "icon": "https://logo.clearbit.com/xiaomi.myhub.dpdns.org",
-                    "url": "https://xiaomi.myhub.dpdns.org:10086/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1748507269717,
-                    "title": "Trilium",
-                    "icon": "https://logo.clearbit.com/note.myhub.dpdns.org",
-                    "url": "https://note.myhub.dpdns.org:10086/login"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1748562571533,
-                    "title": "LibreTV - 免费在线视频搜索与观看平台",
-                    "icon": "https://logo.clearbit.com/tv.myhub.dpdns.org",
-                    "url": "https://tv.myhub.dpdns.org:10086/"
                   },
                   {
                     "type": "link",
@@ -357,17 +301,122 @@
                   },
                   {
                     "type": "link",
-                    "addDate": 1749614869560,
-                    "title": " Linkding",
-                    "icon": "https://logo.clearbit.com/link.myhub.dpdns.org",
-                    "url": "https://link.myhub.dpdns.org:10086/login/"
+                    "addDate": 1749956934428,
+                    "title": "QD 签到",
+                    "icon": "https://logo.clearbit.com/qd.labs.cloudns.be",
+                    "url": "https://qd.labs.cloudns.be/"
                   },
                   {
                     "type": "link",
-                    "addDate": 1749956934428,
-                    "title": "QD 签到",
-                    "icon": "https://logo.clearbit.com/qd.myhub.dpdns.org",
-                    "url": "https://qd.myhub.dpdns.org:10086/my/"
+                    "addDate": 1750348396988,
+                    "title": "QWRT",
+                    "icon": "https://logo.clearbit.com/ax3600.labs.cloudns.be",
+                    "url": "https://ax3600.labs.cloudns.be/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1750348913640,
+                    "title": "DPanel管理面板",
+                    "icon": "https://logo.clearbit.com/dpanel.labs.cloudns.be",
+                    "url": "https://dpanel.labs.cloudns.be/dpanel/ui/user/login"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1750349015107,
+                    "title": "Linkding",
+                    "icon": "https://logo.clearbit.com/www.links.cloudns.be",
+                    "url": "https://www.links.cloudns.be/login/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1750349037924,
+                    "title": "夸克转存",
+                    "icon": "https://logo.clearbit.com/quark.labs.cloudns.be",
+                    "url": "https://quark.labs.cloudns.be/login"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1750376744122,
+                    "title": "LibreTV - 免费在线视频搜索与观看平台",
+                    "icon": "https://logo.clearbit.com/tv.myhub.dpdns.org",
+                    "url": "https://tv.myhub.dpdns.org:10086/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1750376757690,
+                    "title": "Trilium",
+                    "icon": "https://logo.clearbit.com/note.myhub.dpdns.org",
+                    "url": "https://note.myhub.dpdns.org:10086/login"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1750730907195,
+                    "title": "Memos",
+                    "icon": "https://logo.clearbit.com/www.memos.cloudns.be",
+                    "url": "https://www.memos.cloudns.be/explore"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1750730937679,
+                    "title": "图片压缩",
+                    "icon": "https://logo.clearbit.com/tuya.myhub.dpdns.org",
+                    "url": "https://tuya.myhub.dpdns.org:10086/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1750730949327,
+                    "title": "Miniflux",
+                    "icon": "https://logo.clearbit.com/feed.labs.cloudns.be",
+                    "url": "https://feed.labs.cloudns.be/unread"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1750730964438,
+                    "title": "DDNS-GO",
+                    "icon": "https://logo.clearbit.com/ddns.labs.cloudns.be",
+                    "url": "https://ddns.labs.cloudns.be/login"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1750738254829,
+                    "title": "Cup",
+                    "icon": "https://logo.clearbit.com/cup.labs.cloudns.be",
+                    "url": "https://cup.labs.cloudns.be/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1750916307970,
+                    "title": "白し网盘-cdn",
+                    "icon": "https://logo.clearbit.com/www.disk.cloudns.be",
+                    "url": "https://www.disk.cloudns.be/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1750917190867,
+                    "title": " File Browser-cdn",
+                    "icon": "https://logo.clearbit.com/www.files.cloudns.org",
+                    "url": "https://www.files.cloudns.org/login?redirect=/files/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1750917255710,
+                    "title": "ChaoRenBox-cdn",
+                    "icon": "https://logo.clearbit.com/box.files.cloudns.org",
+                    "url": "https://box.files.cloudns.org/#/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1750917359942,
+                    "title": "Memos-cdn",
+                    "icon": "https://logo.clearbit.com/www.memos.cloudns.be",
+                    "url": "https://www.memos.cloudns.be/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1748404544000,
+                    "title": "Trilium Note-cdn",
+                    "icon": "https://logo.clearbit.com/www.notes.cloudns.be",
+                    "url": "https://www.notes.cloudns.be/login"
                   }
                 ]
               }
@@ -945,6 +994,20 @@
             ]
           }
         ]
+      },
+      {
+        "type": "link",
+        "addDate": 1750462697633,
+        "title": "Sun-Panel",
+        "icon": "https://logo.clearbit.com/sun.labs.tun.re",
+        "url": "https://sun.labs.tun.re/login"
+      },
+      {
+        "type": "link",
+        "addDate": 1750596239026,
+        "title": "📎 Add bookmark",
+        "icon": "https://logo.clearbit.com/",
+        "url": "javascript:%20(function%20()%20%7B%20%20var%20bookmarkUrl%20=%20window.location;%20%20var%20applicationUrl%20=%20'https://www.links.cloudns.be/bookmarks/new';%20%20applicationUrl%20+=%20'?url=%27%20+%20encodeURIComponent(bookmarkUrl);%20%20applicationUrl%20+=%20%27&auto_close%27;%20%20window.open(applicationUrl);%7D)();"
       }
     ]
   }
