@@ -2,7 +2,7 @@
   {
     "type": "folder",
     "addDate": 1741046598111,
-    "title": "Bookmarks bar",
+    "title": "书签栏",
     "children": [
       {
         "type": "folder",
@@ -417,6 +417,34 @@
                     "title": "Trilium Note-cdn",
                     "icon": "https://logo.clearbit.com/www.notes.cloudns.be",
                     "url": "https://www.notes.cloudns.be/login"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1750918037352,
+                    "title": "LibreTV - cdn",
+                    "icon": "https://logo.clearbit.com/tv.labs.cloudns.be",
+                    "url": "https://tv.labs.cloudns.be/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1750991843111,
+                    "title": "yt-dlp Web UI",
+                    "icon": "https://logo.clearbit.com/yui.labs.cloudns.be",
+                    "url": "https://yui.labs.cloudns.be/#/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1751166401393,
+                    "title": "直播录屏",
+                    "icon": "https://logo.clearbit.com/live.labs.cloudns.be",
+                    "url": "https://live.labs.cloudns.be/streamers"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1751184188009,
+                    "title": "MoonTV",
+                    "icon": "https://logo.clearbit.com/tvv.labs.cloudns.be",
+                    "url": "https://tvv.labs.cloudns.be/"
                   }
                 ]
               }
